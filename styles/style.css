@@ -76,6 +76,35 @@
     margin: 6px;
     cursor: pointer;
   }
+
+
+
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  table {
+    width: 100%;
+    
+  }
+  th {
+    color: rgb(150, 26, 26);
+    font-size: 15px;
+    background: #eee;
+    position: sticky;
+    top: 50px;
+  
+  
+  }
+  td,th {
+    padding: 12px;
+    border: 1px solid #ccc;;
+    font-size: 10px;
+    text-align: center;
+  
+  }
+
   @media (max-width: 800px) {
     nav .mainMenu {
       height: 100vh;
