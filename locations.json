@@ -1,0 +1,142 @@
+[
+    {
+        "city": "Denver",
+        "state": "Colorado",
+        "abbreviation": "Denver, CO",
+        "latitude": 39.8526406,
+        "longitude": -105.0493497
+    },
+    {
+        "city": "Houston",
+        "state": "Texas",
+        "abbreviation": "Houston, TX",
+        "latitude": 29.8380546,
+        "longitude": -95.4194382
+    },
+    {
+        "city": "New York City",
+        "state": "New York",
+        "abbreviation": "New York City, NY",
+        "latitude": 40.6976701,
+        "longitude": -74.2598751
+    },
+    {
+        "city": "San Diego",
+        "state": "California",
+        "abbreviation": "San Diego, CA",
+        "latitude": 32.8201817,
+        "longitude": -117.141126
+    },
+    {
+        "city": "Baltimore",
+        "state": "Maryland",
+        "abbreviation": "Baltimore, MD",
+        "latitude": 39.303714,
+        "longitude": -76.6563626
+    },
+    {
+        "city": "San Jose",
+        "state": "California",
+        "abbreviation": "San Jose, CA",
+        "latitude": 37.286985,
+        "longitude": -121.8435057
+    },
+    {
+        "city": "Dallas",
+        "state": "Texas",
+        "abbreviation": "Dallas, TX",
+        "latitude": 32.7708591,
+        "longitude": -96.8198164
+    },
+    {
+        "city": "Chicago",
+        "state": "Illinois",
+        "abbreviation": "Chicago, IL",
+        "latitude": 41.7890737,
+        "longitude": -87.6168091
+    },
+    {
+        "city": "Phoenix",
+        "state": "Arizona",
+        "abbreviation": "Phoenix, AZ",
+        "latitude": 33.615996,
+        "longitude": -112.0612108
+    },
+    {
+        "city": "San Antonio",
+        "state": "Texas",
+        "abbreviation": "San Antonio, TX",
+        "latitude": 29.4160836,
+        "longitude": -98.5069712
+    },
+    {
+        "city": "East Los Angeles",
+        "state": "California",
+        "abbreviation": "San Antonio, TX",
+        "latitude": 34.0697448,
+        "longitude": -118.2385773
+    },
+    {
+        "city": "Jacksonville",
+        "state": "Florida",
+        "abbreviation": "Jacksonville, FL",
+        "latitude": 30.2861883,
+        "longitude": -81.6540237
+    },
+    {
+        "city": "Columbus",
+        "state": "Ohio",
+        "abbreviation": "Columbus, Ohio",
+        "latitude": 39.9815907,
+        "longitude": -82.9620926
+    },
+    {
+        "city": "Indianapolis",
+        "state": "Indiana",
+        "abbreviation": "Indianapolis, IN",
+        "latitude": 39.7600213,
+        "longitude": -86.1586895
+    },
+    {
+        "city": "Seattle",
+        "state": "Washington",
+        "abbreviation": "Seattle, WA",
+        "latitude": 47.6533459,
+        "longitude": -122.3976527
+    },
+    {
+        "city": "Nashville",
+        "state": "Tennessee",
+        "abbreviation": "Nashville, TN",
+        "latitude": 36.1622026,
+        "longitude": -86.7857566
+    },
+    {
+        "city": "Boston",
+        "state": "Massachusetts",
+        "abbreviation": "Boston, MA",
+        "latitude": 42.3599395,
+        "longitude": -71.0593554
+    },
+    {
+        "city": "Portland",
+        "state": "Oregon",
+        "abbreviation": "Portland, OR",
+        "latitude": 45.5417263,
+        "longitude": -122.6834331
+    },
+    {
+        "city": "West Milwaukee",
+        "state": "Wisconsin",
+        "abbreviation": "West Milwaukee, WI",
+        "latitude": 45.5417263,
+        "longitude": -122.6834331
+    },
+    {
+        "city": "Albuquerque",
+        "state": "New Mexico",
+        "abbreviation": "Albuquerque, NM",
+        "latitude": 35.0948127,
+        "longitude": -106.6194004
+    }
+]
