@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Home</title>
+    <link rel="stylesheet" href="../styles/style.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-2/css/all.min.css" integrity="sha256-46r060N2LrChLLb5zowXQ72/iKKNiw/lAmygmHExk/o=" crossorigin="anonymous" />
+  </head>
+  <body>
+    <nav>
+      <div class="logo"><h1><a href="#">WEATHER</a></h1></div>
+      <div class="openMenu"><i class="fa fa-bars"></i></div>
+      <ul class="mainMenu">
+          <li><a href="../index.html">HOME</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Contact</a></li>
+          <li><a href="#">login</a></li>
+          <div class="closeMenu"><i class="fa fa-times"></i></div>
+          <span class="icons">
+              <i class="fab fa-facebook"></i>
+              <i class="fab fa-instagram"></i>
+              <i class="fab fa-twitter"></i>
+              <i class="fab fa-github"></i>
+          </span>
+      </ul>
+    </nav>
+    <main>
+        <section class="wSection-1">
+            <h1 style="margin-left: 25px; font-size: 60px">Weather Forecast</h1>
+
+            <fieldset id="firstFieldSet" style="margin: 20px;">
+                <legend>
+                     Search By City
+                </legend>
+                <div>
+                    <select name="cityName" id="cityName">
+                        <option id="optionWeather" value="">Choose City</option>
+                    </select>
+                    <input id="search" type="button" value="Search" onclick="citySelect();"/>
+                </div>
+            </fieldset >
+
+            <fieldset id="feildSet" style="margin: 20px;">
+              <legend>Output</legend>
+              <div id="tContainer">
+                <table class="table">
+                  <thead class="thead-dark">
+                    <tr id="showTime">
+                      <!-- times go here -->
+                    </tr>
+                  </thead>
+                  <tbody id="tBody">
+                    <tr id="showImg">
+                      <!-- images go here -->
+                    </tr>
+                    <tr id="showWeather">
+                      <!-- weather goes here -->
+                    </tr>
+                    <tr id="showWind">
+                      <!-- wind go here -->
+                    </tr>
+                    <tr id="showTemps">
+                      <!-- temps go here -->
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </fieldset>
+
+            
+        </section>
+    </main>
+    <script src="../scripts/weatherinfo.js"></script>
+    <script src="../scripts/app.js"></script>
+
+  </body>
+</html>
